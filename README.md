@@ -1,0 +1,1 @@
+# Inventory-Odoo14-Comunity
